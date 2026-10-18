@@ -4,7 +4,7 @@
 // Apna WhatsApp number country code ke saath likhein.
 // Example: 91 ke baad 10 digit mobile number.
 // Filhaal demo number hai; ise apne asli number se badlein.
-const WHATSAPP_NUMBER = "91XXXXXXXXXX";
+const WHATSAPP_NUMBER = "9471188676";
 
 const menuBtn = document.getElementById("menuBtn");
 const navbar = document.getElementById("navbar");
